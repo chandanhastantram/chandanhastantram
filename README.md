@@ -79,7 +79,7 @@ A stunning portfolio with particle effects, smooth Framer Motion animations, and
 
 - **Tech**: Next.js, TypeScript, Framer Motion, Tailwind CSS
 - **Features**: Particle background, scroll animations, interactive cards, contact form
-- 🔗 [Live Demo](#) | 💻 [View Code](https://github.com/chandanhastantram/portfolio-website)
+- 🔗 [Live Demo](https://chandanhastantram-fiblhhhhq-chandans-projects-ad404f13.vercel.app/) | 💻 [View Code](https://github.com/chandanhastantram/portfolio-website)
 
 ---
 
@@ -155,7 +155,7 @@ const chandanDev = {
 
 [![Email](https://img.shields.io/badge/Email-chandan.hastantram%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandan.hastantram@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-chandanhastantram-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandanhastantram)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chandanhastantram-fiblhhhhq-chandans-projects-ad404f13.vercel.app/)
 
 </div>
 
