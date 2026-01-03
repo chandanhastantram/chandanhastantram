@@ -83,6 +83,16 @@ A stunning portfolio with particle effects, smooth Framer Motion animations, and
 
 ---
 
+### 🎓 [College ERP System](https://github.com/chandanhastantram/college-erp-system)
+
+Modern College Management System with Student, Faculty & Admin portals featuring real-time data visualization.
+
+- **Tech**: Next.js 14, TypeScript, Framer Motion, Recharts
+- **Features**: Attendance tracking, Grade management, Fee payment, Interactive charts, Role-based authentication
+- 🔗 [Live Demo](https://college-erp-system.vercel.app) | 💻 [View Code](https://github.com/chandanhastantram/college-erp-system)
+
+---
+
 ### 🛍️ [MegaArts Store](https://github.com/chandanhastantram/artsstore)
 
 Full-stack e-commerce platform for art accessories with AR try-on functionality.
