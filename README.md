@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Chandan Hastantram
+#  Hi, I'm Chandan Hastantram
 
 ### Frontend Developer | UI/UX Enthusiast | Creative Problem Solver
 
@@ -10,19 +10,19 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate **Frontend Developer** with a keen eye for design and a love for creating beautiful, responsive web applications. I specialize in building modern, user-friendly interfaces with smooth animations and engaging user experiences.
 
-- 🎨 Crafting pixel-perfect UIs with **React**, **Next.js**, and **TypeScript**
-- ✨ Creating stunning animations with **Framer Motion** and **CSS**
-- 🌱 Currently exploring **3D web graphics** and **WebGL**
-- 💼 Open to **internship opportunities** and **freelance projects**
-- 🎯 Goal: Build products that users love
+-  Crafting pixel-perfect UIs with **React**, **Next.js**, and **TypeScript**
+-  Creating stunning animations with **Framer Motion** and **CSS**
+-  Currently exploring **3D web graphics** and **WebGL**
+-  Open to **internship opportunities** and **freelance projects**
+-  Goal: Build products that users love
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -57,7 +57,7 @@ I'm a passionate **Frontend Developer** with a keen eye for design and a love fo
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   
@@ -71,59 +71,59 @@ I'm a passionate **Frontend Developer** with a keen eye for design and a love fo
 
 ---
 
-## 🎨 Featured Projects
+##  Featured Projects
 
-### 🚀 [Animated Portfolio Website](https://github.com/chandanhastantram/portfolio-website)
+###  [Animated Portfolio Website](https://github.com/chandanhastantram/portfolio-website)
 
 A stunning portfolio with particle effects, smooth Framer Motion animations, and glassmorphism design.
 
 - **Tech**: Next.js, TypeScript, Framer Motion, Tailwind CSS
 - **Features**: Particle background, scroll animations, interactive cards, contact form
-- 🔗 [Live Demo](https://chandanhastantram-fiblhhhhq-chandans-projects-ad404f13.vercel.app/) | 💻 [View Code](https://github.com/chandanhastantram/portfolio-website)
+- 🔗 [Live Demo](https://chandanhastantram-fiblhhhhq-chandans-projects-ad404f13.vercel.app/) |  [View Code](https://github.com/chandanhastantram/portfolio-website)
 
 ---
 
-### 🎓 [College ERP System](https://github.com/chandanhastantram/college-erp-system)
+###  [College ERP System](https://github.com/chandanhastantram/college-erp-system)
 
 Modern College Management System with Student, Faculty & Admin portals featuring real-time data visualization.
 
 - **Tech**: Next.js 14, TypeScript, Framer Motion, Recharts
 - **Features**: Attendance tracking, Grade management, Fee payment, Interactive charts, Role-based authentication
-- 🔗 [Live Demo](https://college-erp-system.vercel.app) | 💻 [View Code](https://github.com/chandanhastantram/college-erp-system)
+- 🔗 [Live Demo](https://college-erp-system.vercel.app) |  [View Code](https://github.com/chandanhastantram/college-erp-system)
 
 ---
 
-### 🛍️ [MegaArts Store](https://github.com/chandanhastantram/artsstore)
+###  [MegaArts Store](https://github.com/chandanhastantram/artsstore)
 
 Full-stack e-commerce platform for art accessories with AR try-on functionality.
 
 - **Tech**: Next.js, MongoDB, Cloudinary, 3D Models
 - **Features**: Product catalog, shopping cart, admin panel, image uploads, AR integration
-- 🔗 [Live Demo](#) | 💻 [View Code](https://github.com/chandanhastantram/artsstore)
+- 🔗 [Live Demo](#) |  [View Code](https://github.com/chandanhastantram/artsstore)
 
 ---
 
-### 💬 [Real-Time Chat Application](#)
+###  [Real-Time Chat Application](#)
 
 Modern chat app with WebSocket, typing indicators, and online status.
 
 - **Tech**: React, Socket.io, Express, MongoDB
 - **Features**: Real-time messaging, user authentication, chat rooms
-- 🔗 [Live Demo](#) | 💻 [View Code](#)
+- 🔗 [Live Demo](#) |  [View Code](#)
 
 ---
 
-### 📋 [Task Management Dashboard](#)
+###  [Task Management Dashboard](#)
 
 Kanban-style task manager with drag-and-drop functionality.
 
 - **Tech**: React, TypeScript, React Beautiful DnD, Tailwind CSS
 - **Features**: Drag & drop, task filtering, dark mode, responsive design
-- 🔗 [Live Demo](#) | 💻 [View Code](#)
+- 🔗 [Live Demo](#) |  [View Code](#)
 
 ---
 
-### 🌤️ [Weather Dashboard](#)
+###  [Weather Dashboard](#)
 
 Interactive weather application with charts and location search.
 
@@ -133,19 +133,19 @@ Interactive weather application with charts and location search.
 
 ---
 
-## 💼 What I'm Looking For
+##  What I'm Looking For
 
 I'm actively seeking **internship opportunities** where I can:
 
-- 🎨 Build beautiful, user-friendly interfaces
-- 🚀 Work with modern frontend technologies
-- 🤝 Collaborate with talented developers
-- 📚 Learn and grow as a developer
-- 💡 Contribute to meaningful projects
+-  Build beautiful, user-friendly interfaces
+-  Work with modern frontend technologies
+-  Collaborate with talented developers
+-  Learn and grow as a developer
+-  Contribute to meaningful projects
 
 ---
 
-## 🔥 My Approach
+##  My Approach
 
 ```javascript
 const chandanDev = {
@@ -159,7 +159,7 @@ const chandanDev = {
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
