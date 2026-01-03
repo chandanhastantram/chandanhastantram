@@ -153,8 +153,9 @@ const chandanDev = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-chandan.hastantram%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandan.hastantram@gmail.com)
+[![Email](https://img.shields.io/badge/Email-chandanhs2005%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandanhs2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-chandanhastantram-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandanhastantram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chandan%20Hastantram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-hastantram-57b648275/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chandanhastantram-fiblhhhhq-chandans-projects-ad404f13.vercel.app/)
 
 </div>
