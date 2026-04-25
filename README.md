@@ -13,9 +13,9 @@
 
 <div align="center">
 
-### *I turn coffee into pixels and ideas into interfaces.*
+### *I turn ideas into products that ship — from backend to browser.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7922A&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Animation+Wizard+%E2%9C%A8;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Building+things+that+feel+alive+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7922A&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%90;Building+end-to-end+products+%F0%9F%9A%80;From+DB+to+browser+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,11 +25,11 @@
 
 ```js
 const chandan = {
-  role    : "Frontend Developer",
+  role    : ["Full Stack Developer", "Open Source Developer"],
   location: "India 🇮🇳",
-  crafting: ["React", "Next.js", "Framer Motion", "Three.js"],
-  learning: ["WebGL", "3D Web Graphics", "Advanced Animations"],
-  believe : "Every pixel should have a reason to exist.",
+  stack   : ["React", "Next.js", "Node.js", "FastAPI", "Rust", "Three.js"],
+  learning: ["WebGL", "Distributed Systems", "Compiler Design"],
+  believe : "Ship fast. Break things. Fix them better.",
   fun_fact: "I debug with console.log() and I'm not ashamed 🤷",
 };
 ```
