@@ -30,7 +30,7 @@ const chandan = {
   stack: ["React", "Next.js", "Node.js", "FastAPI", "Rust", "Three.js"],
   learning: ["WebGL", "Distributed Systems", "Compiler Design"],
   believe: "Ship fast. Break things. Fix them better.",
-  fun_fact: "I debug with console.log() and I'm not ashamed 🤷",
+  fun_fact: "I debug with console.log() and I'm not ashamed ",
 };
 ```
 
@@ -55,12 +55,12 @@ const chandan = {
 
 | Project                   | What it does                                    | Stack                           |
 | ------------------------- | ----------------------------------------------- | ------------------------------- |
-| 🎓 **College ERP**        | Multi-role university management system         | Next.js · TypeScript · Recharts |
-| 🎨 **MegaArts Store**     | E-commerce with 3D AR try-on                    | Next.js · Three.js · MongoDB    |
-| ♟️ **Chess Platform**     | Real-time chess with Stockfish AI + Elo ratings | Python · FastAPI · WebSockets   |
-| 🤖 **Aurora Suite.ai**    | AI-powered productivity suite                   | TypeScript                      |
-| 📊 **Attendance Manager** | Smart student attendance tracker                | React · IndexedDB               |
-| 📄 **PDF Office**         | Lightweight office suite — single Rust binary   | Rust                            |
+|  **College ERP**        | Multi-role university management system         | Next.js · TypeScript · Recharts |
+|  **MegaArts Store**     | E-commerce with 3D AR try-on                    | Next.js · Three.js · MongoDB    |
+|  **Chess Platform**     | Real-time chess with Stockfish AI + Elo ratings | Python · FastAPI · WebSockets   |
+|  **Aurora Suite.ai**    | AI-powered productivity suite                   | TypeScript                      |
+|  **Attendance Manager** | Smart student attendance tracker                | React · IndexedDB               |
+|  **PDF Office**         | Lightweight office suite — single Rust binary   | Rust                            |
 
 ---
 
